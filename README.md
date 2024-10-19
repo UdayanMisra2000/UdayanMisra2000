@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Udayan Misra
 - 👀 I’m interested in Web Development, App Development, Machine Learning
-- 🌱 I’m currently learning B.Tech CST
-- 💞️ I’m looking to collaborate on Internship, Job, Project, Research paper
-- 📫 How to reach me ph no.-06289072203
-                     email adress- udayanmisra.real@gmail.com
+- 🌱 I’m a B.Tech Computer Science Engineer graduate
+- 🎓 I'm currently pursuing my M.Tech degree on Computer Science Engineering
+- 💞👨‍🦯‍➡️ I’m looking to collaborate on Job, Project, Research paper
+- 📫 How to reach me ph no.-06289072203/9903168190
+                     email adress- udayanmisra.official@gmail.com
                      linkedIn- https://www.linkedin.com/in/udayan-misra-1297161a2/
 
 <!---
